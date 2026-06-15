@@ -3,7 +3,7 @@
 An interactive, lightweight e-commerce cart and checkout application built using Python and Streamlit. This project transitions standard terminal-based retail logic into a functional, user-friendly web interface.
 
 ## 🚀 Live Demo
-[Insert link to your live app here if deployed, or state: "Runs locally on localhost"]
+https://python-supermart-mnwxdmyutbjww433aedika.streamlit.app/
 
 ## ✨ Features
 - **Dynamic Product Catalog:** View real-time pricing grids for stock keeping units (SKUs).
